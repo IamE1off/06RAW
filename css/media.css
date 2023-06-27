@@ -82,4 +82,12 @@
         .projects-item {
             width: calc((100% - 48px) / 3);
         }
+
+        .team {
+                    padding: 120px 0;
+                }
+        .team-list {
+            gap: 64px 24px;
+            height: 396px;
+        }
 }
